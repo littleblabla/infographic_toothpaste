@@ -1,0 +1,39 @@
+.tp_img{
+    width: 100%;
+    margin:0 auto;
+}
+.tp_h2{
+    font-size:20px;
+    font-weight:100;
+    font-family: "Menlo", regular, serif;
+    color: #000;
+    line-height: 30px;
+    margin:0 auto;
+    text-align:center;
+    padding-top:90px;
+    padding-bottom:90px;
+}
+#content{
+    width:100%;
+    height:100%;
+}
+#inner_content{
+    width:100%;
+    max-width:1440px;
+    margin: 0 auto;
+    /*padding-left: 90px;*/
+    /*padding-right: 90px;*/
+}
+.color_img{
+    width:500px;
+    height:375px;
+}
+#meibai_container{
+    float:right;
+}
+#kangmin_container{
+    float:right;
+}
+#second_row{
+    clear:both;
+}
